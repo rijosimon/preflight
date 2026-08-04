@@ -1,0 +1,12 @@
+{
+  "name": "plan-before-code",
+  "description": "Plan work as epics and stories in a local file before implementing, and confirm scope before writing code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rijo Simon",
+    "email": "rijo@rijosimon.com"
+  },
+  "homepage": "https://github.com/rijosimon/plan-before-code-marketplace",
+  "repository": "https://github.com/rijosimon/plan-before-code-marketplace",
+  "license": "MIT"
+}
