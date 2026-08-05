@@ -1,4 +1,4 @@
-# plan-before-code-marketplace
+# preflight
 
 A Claude Code plugin marketplace hosting a single plugin: **plan-before-code**
 — a "plan before you code" workflow (epics and stories in a local plan
@@ -11,7 +11,7 @@ plugin does and how to install it.
 ## Quick install
 
 ```
-/plugin marketplace add rijosimon/plan-before-code-marketplace
-/plugin install plan-before-code@plan-before-code-marketplace
+/plugin marketplace add rijosimon/preflight
+/plugin install plan-before-code@preflight
 /reload-plugins
 ```

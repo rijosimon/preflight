@@ -1,5 +1,5 @@
 {
-  "name": "plan-before-code-marketplace",
+  "name": "preflight",
   "owner": {
     "name": "Rijo Simon",
     "email": "rijo@rijosimon.com"
@@ -16,7 +16,7 @@
       },
       "source": {
         "type": "github",
-        "repo": "rijosimon/plan-before-code-marketplace",
+        "repo": "rijosimon/preflight",
         "path": "plan-before-code"
       }
     }

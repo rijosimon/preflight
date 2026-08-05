@@ -24,13 +24,13 @@ skipped automatically — this is for real feature work, not every commit.
 Add this marketplace:
 
 ```
-/plugin marketplace add rijosimon/plan-before-code-marketplace
+/plugin marketplace add rijosimon/preflight
 ```
 
 Install the plugin:
 
 ```
-/plugin install plan-before-code@plan-before-code-marketplace
+/plugin install plan-before-code@preflight
 ```
 
 Reload:
