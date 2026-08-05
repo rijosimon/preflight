@@ -8,8 +8,6 @@ safer defaults, more discipline. Add the marketplace once
 (`/plugin marketplace add rijosimon/preflight`) and every plugin published
 here becomes installable, with no re-adding required as new ones ship.
 
-Today that's one plugin. It won't stay that way.
-
 ## Available now: plan-before-code
 
 Your AI coding agent is fast — that's exactly the problem. Left alone, it
