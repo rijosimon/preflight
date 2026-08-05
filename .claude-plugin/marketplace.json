@@ -1,5 +1,6 @@
 {
   "name": "preflight",
+  "description": "A growing marketplace of Claude Code plugins for writing better code",
   "owner": {
     "name": "Rijo Simon",
     "email": "rijo@rijosimon.com"
