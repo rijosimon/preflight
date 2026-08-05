@@ -15,11 +15,7 @@
         "name": "Rijo Simon",
         "email": "rijo@rijosimon.com"
       },
-      "source": {
-        "type": "github",
-        "repo": "rijosimon/preflight",
-        "path": "plan-before-code"
-      }
+      "source": "./plan-before-code"
     }
   ]
 }
